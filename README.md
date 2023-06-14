@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **rohanrifat43@gmail.com**
 
-- ⚡ Fun fact **I think i am horny😃**
+- ⚡ Fun fact **I think I am friendly😃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
