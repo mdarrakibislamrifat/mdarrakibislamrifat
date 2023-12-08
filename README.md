@@ -1,4 +1,4 @@
-![Your Image Alt Text](https://i.ibb.co/xff0Bsr/Blue-And-White-Modern-Minimal-Business-Channel-Youtube-Banner.jpg)
+![Your Image Alt Text](https://i.ibb.co/Y8KqgzR/image-1200x400-jpg.png)
 # 💫 About Me:
 👋 Hey there! I'm Md. Ar Rakib Islam Rifat, a passionate junior developer diving into the world of web development. My journey revolves around learning and mastering technologies like React.js, Node.js, Next.js, HTML, and CSS for both frontend and backend development.<br>🚀 Currently exploring the depths of React.js to craft dynamic and interactive user interfaces while also delving into Node.js for backend magic. Next.js has caught my attention for its versatility in building powerful web applications.<br>💡 Eager to collaborate on projects, exchange ideas, and contribute to open-source initiatives to further hone my skills and expand my knowledge.<br>🌟 Let's connect and code something awesome together! Feel free to reach out for discussions, collaborations, or just to chat about tech and coding.<br>📫 Reach me rohanrifat43@gmail.com<br>Happy coding! 😊✨
 
