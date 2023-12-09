@@ -11,7 +11,7 @@
 
 ## 🔥 Projects
 
-### 💪 Contest Platform Website
+### 💪 1. Contest Platform Website
 #### Project details
 * On the home page there is a navbar at the top with a logo and website name on the left side and five route names on the right side.
 * Under the navbar show a banner and search field to search any kind of contest.
@@ -30,7 +30,7 @@
   - Authentication: Firebase Authentication and JWT
 - [👩‍👩‍👧‍👧Client Site Code Link](https://github.com/mdarrakibislamrifat/Contest-Platform-Client) - [⚙Server Site Code Link](https://github.com/mdarrakibislamrifat/Contest-Platform-Server) - [✔Live Site](https://classy-pancake.surge.sh/)
 
-### 🍕 Food Website
+### 🍕 2. Food Website
 #### Project Details
 * At the top of my website homepage is the nav bar, below that is a banner section, below that is the total top selling food, our website offers, and below that is our all chef's . A minimalistic  footer thats it .And in this nav bar have four routes Home ,All Food Items, Blogs and Login
 * Then in the banner section we have there is a button called All Menu Clicking on it will show all the menus of our restaurant.
@@ -47,12 +47,16 @@
   - Authentication: Firebase Authentication and JWT
 - [👩‍👩‍👧‍👧Client Site Code Link](https://github.com/mdarrakibislamrifat/Food-11-client) - [⚙Server Site Code Link](https://github.com/mdarrakibislamrifat/Food-11-Server) - [✔Live Site](https://abashed-hydrant.surge.sh/)
 
-### 💬 Real-time Chat & User-Friendly Post Platform
-- **Description:** A comprehensive social platform developed with the Full MERN (MongoDB, Express.js, React.js, Node.js) stack. The platform features a real-time chat system, enabling users to connect seamlessly. Users can also share posts, express thoughts, and interact in a user-friendly environment.
-- **Key Features:**
-  - Real-time Chat: Connect with other users instantly through a responsive and dynamic chat system.
-  - User-Friendly Posts: Share thoughts, ideas, and updates with a clean and intuitive post creation interface.
-  - Friend System: Build connections by adding and interacting with friends, similar to popular social networks.
+### 📱 3. Brand Shop Website
+#### Project Details
+* First home page have website logo,Website name, home route, login route,Add product route end login route
+* There are six types of phone brands on the homepage,Newly arrived phones are shown.Customer reviews are displayed on the homepage of the website and a footer is displayed at the bottom
+* When we click on add product user must be login.When we click on add product total seven fields will appear like image, name, brand name, type, price, short description and rating.And with it a button is placed to add the database which is called add button.
+* We have shown six brand cards on the homepage, clicking on any brand will show the data of that brand.Then on that page we see update and details button which can take us to update page.
+* When we click update then same  field will appear like image name brand name type price short description and rating along with a button called add button.
+* When we click on add button this product will be added to the database and from the database we will show the router called My Card.And in my cart there will be a button named Delete which will also delete from UI and also delete from database.
+* On my website add product my card these are all private rounds only when user login they can enter.
+  
 - **Technologies Used:**
   - Frontend: React.js, Tailwind CSS
   - Backend: Node.js, Express.js
@@ -60,7 +64,7 @@
   - Real-time Communication: Socket.io
   - Authentication: Firebase Authentication with JWT
 - **Current Status:** Actively developing and refining the project to enhance user experience and add more features.
-- [👩‍👩‍👧‍👧Client Site](https://github.com/naymhossen1b/En-Official-Client-Site) - [Server Site](https://github.com/naymhossen1b/En-Official-Server-Site-) - [✔Live Site](https://github.com/naymhossen1b)
+- [👩‍👩‍👧‍👧Client Site Code Link](https://github.com/mdarrakibislamrifat/Brand-Shop-Client) - [⚙Server Site Code Link](https://github.com/mdarrakibislamrifat/Brand-Shop-Server) - [✔Live Site](https://brand-shop-bd.surge.sh/)
 
 
 # 📊 GitHub Stats:
