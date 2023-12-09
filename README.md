@@ -22,7 +22,7 @@
 ## 🔥 Projects
 
 ### 💪 Contest Platform Website
-
+#### Project details
 * On the home page there is a navbar at the top with a logo and website name on the left side and five route names on the right side.
 * Under the navbar show a banner and search field to search any kind of contest.
 * Then the popular contest here show the popular contest how much join.
@@ -38,7 +38,7 @@
   - Backend: Express.js, Node.js
   - Database: MongoDB
   - Authentication: Firebase Authentication with JWT
-- [Client Site](https://github.com/naymhossen1b/Fintex-Fitness-Client-Code) - [Server Site](https://github.com/naymhossen1b/Fintex-Fitness-Server-Code-) - [Live Demo](https://fintex-fitness.netlify.app)
+- [Client Site Link](https://github.com/mdarrakibislamrifat/Contest-Platform-Client) - [Server Site Link](https://github.com/mdarrakibislamrifat/Contest-Platform-Server) - [✔Live Site](https://classy-pancake.surge.sh/)
 
 ### 🌐 Job Post MERN Stack Website
 
