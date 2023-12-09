@@ -62,8 +62,8 @@
   - Backend: Node.js, Express.js
   - Database: MongoDB, Mongoose
   - Real-time Communication: Socket.io
-  - Authentication: Firebase Authentication with JWT
-- **Current Status:** Actively developing and refining the project to enhance user experience and add more features.
+  - Authentication: Firebase Authentication and JWT
+
 - [👩‍👩‍👧‍👧Client Site Code Link](https://github.com/mdarrakibislamrifat/Brand-Shop-Client) - [⚙Server Site Code Link](https://github.com/mdarrakibislamrifat/Brand-Shop-Server) - [✔Live Site](https://brand-shop-bd.surge.sh/)
 
 
