@@ -27,18 +27,25 @@
   - Frontend: JavaScript, React.js, Tailwind CSS
   - Backend: Express.js, Node.js
   - Database: MongoDB
-  - Authentication: Firebase Authentication with JWT
-- [Client Site Link](https://github.com/mdarrakibislamrifat/Contest-Platform-Client) - [Server Site Link](https://github.com/mdarrakibislamrifat/Contest-Platform-Server) - [✔Live Site](https://classy-pancake.surge.sh/)
+  - Authentication: Firebase Authentication and JWT
+- [👩‍👩‍👧‍👧Client Site Code Link](https://github.com/mdarrakibislamrifat/Contest-Platform-Client) - [⚙Server Site Code Link](https://github.com/mdarrakibislamrifat/Contest-Platform-Server) - [✔Live Site](https://classy-pancake.surge.sh/)
 
-### 🌐 Job Post MERN Stack Website
-
-- **Description:** A dynamic job posting platform built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. Allows employers to post job opportunities and job seekers to explore and apply.
+### 🍕 Food Website
+#### Project Details
+* At the top of my website homepage is the nav bar, below that is a banner section, below that is the total top selling food, our website offers, and below that is our all chef's . A minimalistic  footer thats it .And in this nav bar have four routes Home ,All Food Items, Blogs and Login
+* Then in the banner section we have there is a button called All Menu Clicking on it will show all the menus of our restaurant.
+* And below the top selling food that we have, there is a button where if you click on it, we will show you all the products on the website.
+* In our All Food Items page we have shown all the types of food available on our website.All food items where we have all the food, there is a button under that food which is called details button, clicking on this details button will take us directly to a page where our product details will be shown.Then when we click on that serious product then it will become our private route user can't enter without login when user login then he enter that router and purchase product.
+* One more thing has been done in this all food items page where a search item is provided which is searchable by our food name.
+* The third route we have is the blog round. In this blog post, we have given the answers to three questions, which is one way data binding,Then what is what is npm in node js and lastly a difference is given between MongoDB and MySQL.
+* Now our login page is working we can login in login page if we have already registered.
+  
 - **Technologies Used:**
   - Frontend: React.js, Tailwind CSS
   - Backend: Node.js, Express.js
   - Database: MongoDB
-  - Authentication: Firebase Authentication with JWT
-- [Client Site](https://github.com/naymhossen1b/Job-Box-Client-Site) - [Server Site](https://github.com/naymhossen1b/Job-Box-Server-Site) - [Live Demo](https://job-box-apps.netlify.app/)
+  - Authentication: Firebase Authentication and JWT
+- [👩‍👩‍👧‍👧Client Site Code Link](https://github.com/mdarrakibislamrifat/Food-11-client) - [⚙Server Site Code Link](https://github.com/mdarrakibislamrifat/Food-11-Server) - [✔Live Site](https://abashed-hydrant.surge.sh/)
 
 ### 💬 Real-time Chat & User-Friendly Post Platform
 - **Description:** A comprehensive social platform developed with the Full MERN (MongoDB, Express.js, React.js, Node.js) stack. The platform features a real-time chat system, enabling users to connect seamlessly. Users can also share posts, express thoughts, and interact in a user-friendly environment.
@@ -53,7 +60,7 @@
   - Real-time Communication: Socket.io
   - Authentication: Firebase Authentication with JWT
 - **Current Status:** Actively developing and refining the project to enhance user experience and add more features.
-- [Client Site](https://github.com/naymhossen1b/En-Official-Client-Site) - [Server Site](https://github.com/naymhossen1b/En-Official-Server-Site-) - [Live Demo](https://github.com/naymhossen1b)
+- [👩‍👩‍👧‍👧Client Site](https://github.com/naymhossen1b/En-Official-Client-Site) - [Server Site](https://github.com/naymhossen1b/En-Official-Server-Site-) - [✔Live Site](https://github.com/naymhossen1b)
 
 
 # 📊 GitHub Stats:
