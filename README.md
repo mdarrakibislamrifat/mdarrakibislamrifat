@@ -44,7 +44,7 @@ const rakib = {
     <td><b>📅 Duration</b></td>
   </tr>
   <tr>
-    <td><b>Zeron Abroad Study</b></td>
+    <td><b>Zeron Group</b></td>
     <td>Software Engineer</td>
     <td>Jan 2026 – Present 🟢</td>
   </tr>
