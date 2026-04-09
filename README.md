@@ -195,8 +195,17 @@ const rakib = {
 
 <br/><br/>
 
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdarrakibislamrifat&theme=tokyo-night&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true)](https://github.com/mdarrakibislamrifat)
+
+
 *"First, solve the problem. Then, write the code."* — John Johnson
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 
 </div>
+
+---
+
+
