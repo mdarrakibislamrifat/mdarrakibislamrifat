@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Md.%20Ar%20Rakib%20Islam%20Rifat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Md.%20Ar%20Rakib%20Islam%20Rifat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=20" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Software+Engineer+%40+Zeron+Abroad+Study;React+%7C+Next.js+%7C+Node.js+Expert;Building+Scalable+Web+Applications;Open+Source+Enthusiast+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
@@ -108,9 +108,19 @@ const rakib = {
 
 <div align="center">
 
+### 💼 Zeron CRM — Advanced Lead Management System
+[![Live](https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge)](https://zeroncrm.online/)
+
+> A powerful, end-to-end CRM solution designed for efficient lead tracking, automated follow-ups, and sales pipeline management. Features professional dashboards and integrated communication tools.
+
+`Django` `Python` `PostgreSQL` `Nginx` `Gunicorn` `TailwindCSS`
+
+
+---
+
 ### 🤖 Preparation For Yourself — AI Interview Prep Platform
-[![Live](https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge)](https://github.com/mdarrakibislamrifat)
-[![Source](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/mdarrakibislamrifat)
+[![Live](https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge)](https://real-time-ai-voice-agent-kappa.vercel.app/sign-in)
+[![Source](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/mdarrakibislamrifat/Real-Time-AI-Voice-Agent)
 
 > AI-powered interview preparation platform with **Vapi Voice Agents** & **Google Gemini**. Users practice real interviews, receive live transcripts, and get instant AI feedback.
 
@@ -119,35 +129,13 @@ const rakib = {
 ---
 
 ### ✅ Task Manager — Role-Based System
-[![Live](https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge)](https://github.com/mdarrakibislamrifat)
-[![Client](https://img.shields.io/badge/📱_Client_Code-20232A?style=for-the-badge&logo=react)](https://github.com/mdarrakibislamrifat)
-[![Server](https://img.shields.io/badge/⚙️_Server_Code-339933?style=for-the-badge&logo=node.js)](https://github.com/mdarrakibislamrifat)
+[![Live](https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge)](https://taskforge-manager.vercel.app/)
+[![Client](https://img.shields.io/badge/📱_Client_Code-20232A?style=for-the-badge&logo=react)](https://github.com/mdarrakibislamrifat/task-manager-frontend)
+[![Server](https://img.shields.io/badge/⚙️_Server_Code-339933?style=for-the-badge&logo=node.js)](https://github.com/mdarrakibislamrifat/task-manager-backend)
 
 > Role-based task management system with separate **Admin** and **User** dashboards. Secure task assignment, access control, and status tracking (Pending → In Progress → Completed).
 
 `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Firebase`
-
----
-
-### 🏆 Contest Platform Website
-[![Live](https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge)](https://classy-pancake.surge.sh/)
-[![Client](https://img.shields.io/badge/📱_Client_Code-20232A?style=for-the-badge&logo=react)](https://github.com/mdarrakibislamrifat/Contest-Platform-Client)
-[![Server](https://img.shields.io/badge/⚙️_Server_Code-339933?style=for-the-badge&logo=node.js)](https://github.com/mdarrakibislamrifat/Contest-Platform-Server)
-
-> Full-featured contest management platform with **Admin, Creator & User** roles. Features real-time contest search, winner showcasing, and role-based dashboards.
-
-`React.js` `Node.js` `Express.js` `MongoDB` `Firebase` `JWT` `TailwindCSS`
-
----
-
-### 🍕 Food Website
-[![Live](https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge)](https://abashed-hydrant.surge.sh/)
-[![Client](https://img.shields.io/badge/📱_Client_Code-20232A?style=for-the-badge&logo=react)](https://github.com/mdarrakibislamrifat/Food-11-client)
-[![Server](https://img.shields.io/badge/⚙️_Server_Code-339933?style=for-the-badge&logo=node.js)](https://github.com/mdarrakibislamrifat/Food-11-Server)
-
-> Restaurant website with full menu browsing, food search by name, product detail pages with protected purchase routes, and Firebase authentication.
-
-`React.js` `Node.js` `MongoDB` `Firebase Auth` `JWT` `TailwindCSS`
 
 </div>
 
@@ -179,11 +167,13 @@ const rakib = {
 ## 📜 Certifications
 
 | 📚 Course | 🏫 Platform | 🔗 Certificate |
-|-----------|------------|----------------|
-| Web Development | Programming Hero | [View Certificate](https://github.com/mdarrakibislamrifat) |
-| Data Science | Ostad | [View Certificate](https://github.com/mdarrakibislamrifat) |
-
----
+| :--- | :--- | :--- |
+| Web Development | Programming Hero | [View Certificate](https://drive.google.com/file/d/1-jokbz13ndNEryCZpm0yLAGomgGVypYs/view) |
+| Data Science | Ostad | [View Certificate](https://drive.google.com/file/d/1Shd02zFA1cGjTVsDnIziW_zujVss2B-U/view) |
+| Presentation And Public Speaking | 10 Minute School | [View Certificate](https://drive.google.com/file/d/1Bm3lFPnsMEW-i6OWOqipnuYacjoehFW_/view) |
+| Communication Hack | 10 Minute School | [View Certificate](https://drive.google.com/file/d/1vHvL6LCd0n-s2nQKj1uQnas-I1xYVpl4/view) |
+| SQA | Ostad | [View Certificate](https://drive.google.com/file/d/1lNCZ30CkRb9AI5XyUi0epRrXuvxuYbSM/view) |
+| Mobile Photography | BUBT | [View Certificate](https://drive.google.com/file/d/1TEs2JEuM3sAkLHnlNSUkJIL9_AUH-hw5/view) |
 
 ## 🌐 Languages
 
@@ -199,7 +189,7 @@ const rakib = {
   <img src="https://img.shields.io/badge/Send%20Me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/md-ar-rakib-islam-rifat-10571127a">
+<a href="https://www.linkedin.com/in/rakib-islam-rifatt/">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
